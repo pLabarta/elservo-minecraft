@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2019-07-21 22:14:10 -0300",
+      "minecraft:savanna": "2019-07-21 22:15:18 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
