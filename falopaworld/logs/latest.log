@@ -1,112 +1,59 @@
-[18:16:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:16:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:16:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:16:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:16:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:16:38] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:16:38] [Server thread/INFO]: Loading properties
-[18:16:38] [Server thread/INFO]: Default game type: SURVIVAL
-[18:16:38] [Server thread/INFO]: Generating keypair
-[18:16:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:16:38] [Server thread/INFO]: Using default channel type
-[18:16:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:16:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:16:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:16:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:16:40] [Server thread/INFO]: Preparing level "falopitaworld"
-[18:16:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:16:40] [Server thread/INFO]: Loaded 6 recipes
-[18:16:41] [Server thread/INFO]: Loaded 811 advancements
-[18:16:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:16:43] [Server thread/INFO]: Preparing spawn area: 0%
-[18:16:46] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[18:16:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[18:16:46] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[18:16:46] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:16:46] [Server thread/INFO]: Preparing spawn area: 1%
-[18:16:46] [Server thread/INFO]: Time elapsed: 4248 ms
-[18:16:46] [Server thread/INFO]: Done (6.610s)! For help, type "help"
-[19:39:55] [Server thread/INFO]: Shompi[/25.84.138.198:59021] logged in with entity id 94 at (80.30000001192093, 63.0, 234.91958155384395)
-[19:39:55] [Server thread/INFO]: Shompi joined the game
-[19:39:58] [Server thread/INFO]: Shompi was blown up by Creeper
-[19:40:12] [Server thread/INFO]: Shompi has made the advancement [Diamonds!]
-[19:40:57] [Server thread/INFO]: Shompi was slain by Zombie
-[20:20:47] [Server thread/INFO]: Shompi has made the advancement [The Parrots and the Bats]
-[20:27:07] [Server thread/INFO]: Farguito[/127.0.0.1:49624] logged in with entity id 4452 at (78.39196298984146, 63.0, 229.54187547781976)
-[20:27:07] [Server thread/INFO]: Farguito joined the game
-[20:27:12] [Server thread/INFO]: <Farguito> JAJAJAJAJJA
-[20:27:15] [Server thread/INFO]: <Farguito> miralo al manija
-[20:28:46] [Server thread/INFO]: <Shompi> d?
-[20:28:56] [Server thread/INFO]: <Farguito> ahi voy
-[20:29:15] [Server thread/INFO]: <Farguito> igual na
-[20:29:22] [Server thread/INFO]: <Farguito> venia a limpiar lo del creeper
-[20:29:25] [Server thread/INFO]: <Farguito> pero veo que ya esta limpio
-[20:29:27] [Server thread/INFO]: <Farguito> JAJAJJAJA
-[20:29:29] [Server thread/INFO]: <Shompi> ya ta
-[20:29:31] [Server thread/INFO]: <Farguito> le pase todo a rami
-[20:29:36] [Server thread/INFO]: <Farguito> llega a su casa y se lo baja
-[20:29:45] [Server thread/INFO]: <Shompi> toy en recoleccion de animales
-[20:30:05] [Server thread/INFO]: <Farguito> a ver
-[20:36:25] [Server thread/INFO]: Shompi was blown up by Creeper
-[20:46:31] [Server thread/INFO]: Shompi has made the advancement [Ol' Betsy]
-[20:46:55] [Server thread/INFO]: Farguito has made the advancement [Ol' Betsy]
-[20:48:04] [Server thread/INFO]: Shompi has made the advancement [Take Aim]
-[20:56:42] [Server thread/INFO]: reidiojed[/25.75.75.230:50140] logged in with entity id 7165 at (189.637000592828, 65.0, 268.95031612103634)
-[20:56:42] [Server thread/INFO]: reidiojed joined the game
-[20:57:28] [Server thread/INFO]: Rusoso[/25.2.195.178:11562] logged in with entity id 7327 at (56.30000001192093, 42.0, 252.7115634387996)
-[20:57:28] [Server thread/INFO]: Rusoso joined the game
-[20:58:08] [Server thread/WARN]: Fetching packet for removed entity atx['Wheat Seeds'/7482, l='falopitaworld', x=119.77, y=66.94, z=261.82]
-[21:03:18] [Server thread/INFO]: Rusoso has made the advancement [Suit Up]
-[21:16:29] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/10849, l='falopitaworld', x=60.88, y=26.00, z=314.88]
-[21:24:52] [Server thread/INFO]: reidiojed was blown up by Creeper
-[21:28:00] [Server thread/INFO]: reidiojed has made the advancement [Diamonds!]
-[21:29:57] [Server thread/INFO]: Rusoso has made the advancement [Diamonds!]
-[21:38:25] [Server thread/INFO]: reidiojed has made the advancement [Cover Me With Diamonds]
-[21:53:24] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Ore'/19151, l='falopitaworld', x=83.88, y=18.22, z=299.85]
-[21:53:44] [Server thread/INFO]: Rusoso was shot by Skeleton
-[21:54:01] [Server thread/INFO]: Rusoso lost connection: Disconnected
-[21:54:01] [Server thread/INFO]: Rusoso left the game
-[22:03:11] [Server thread/INFO]: Farguito has made the advancement [Hot Stuff]
-[22:11:04] [Server thread/INFO]: Farguito has made the advancement [We Need to Go Deeper]
-[22:11:05] [Server thread/WARN]: reidiojed moved too quickly! 0.3422662926473379,0.0,-10.096395306510772
-[22:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
-[22:19:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/24759, l='falopitaworld', x=69.78, y=62.94, z=235.56]
-[22:19:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/24759, l='falopitaworld', x=69.78, y=62.94, z=235.56]
-[22:19:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/24759, l='falopitaworld', x=69.78, y=62.94, z=235.56]
-[22:24:56] [Server thread/INFO]: Shompi has made the advancement [Ice Bucket Challenge]
-[22:40:19] [Server thread/INFO]: Shompi has made the advancement [We Need to Go Deeper]
-[22:56:42] [Server thread/INFO]: Farguito lost connection: Disconnected
-[22:56:42] [Server thread/INFO]: Farguito left the game
-[22:59:49] [Server thread/INFO]: Farguito[/127.0.0.1:52698] logged in with entity id 29368 at (74.09825733673716, 63.0, 243.11225516826647)
-[22:59:49] [Server thread/INFO]: Farguito joined the game
-[23:01:22] [Server thread/INFO]: Shompi lost connection: Disconnected
-[23:01:22] [Server thread/INFO]: Shompi left the game
-[23:01:28] [Server thread/INFO]: Farguito lost connection: Disconnected
-[23:01:28] [Server thread/INFO]: Farguito left the game
-[23:01:30] [Server thread/INFO]: reidiojed lost connection: Disconnected
-[23:01:30] [Server thread/INFO]: reidiojed left the game
-[23:01:55] [Server thread/INFO]: Farguito[/127.0.0.1:52753] logged in with entity id 29502 at (77.73997498898599, 63.0, 229.11409590592442)
-[23:01:55] [Server thread/INFO]: Farguito joined the game
-[23:04:38] [Server thread/INFO]: Farguito lost connection: Disconnected
-[23:04:38] [Server thread/INFO]: Farguito left the game
-[23:04:45] [Server thread/INFO]: Farguito[/127.0.0.1:52806] logged in with entity id 29747 at (63.79983893960362, 64.0, 207.40076023559695)
-[23:04:45] [Server thread/INFO]: Farguito joined the game
-[23:08:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30019, l='falopitaworld', x=72.17, y=63.15, z=236.17]
-[23:10:47] [Server thread/INFO]: Farguito lost connection: Disconnected
-[23:10:47] [Server thread/INFO]: Farguito left the game
-[23:10:58] [Server thread/INFO]: Stopping the server
-[23:10:58] [Server thread/INFO]: Stopping server
-[23:10:58] [Server thread/INFO]: Saving players
-[23:10:58] [Server thread/INFO]: Saving worlds
-[23:10:58] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[23:10:59] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:10:59] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:16] [Server thread/WARN]: Hermiiii moved too quickly! 0.6547560872614895,-7.155232004516606,7.18620997099174
+[00:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[00:04:21] [Server thread/INFO]: Hermiiii lost connection: Disconnected
+[00:04:21] [Server thread/INFO]: Hermiiii left the game
+[00:05:35] [Server thread/INFO]: Lateraxe has made the advancement [We Need to Go Deeper]
+[00:06:23] [Server thread/INFO]: Hermiiii[/25.99.34.164:54222] logged in with entity id 49831 at (91.90208151252473, 69.0, 556.2321184464294)
+[00:06:23] [Server thread/INFO]: Hermiiii joined the game
+[00:06:38] [Server thread/INFO]: Hermiiii lost connection: Timed out
+[00:06:38] [Server thread/INFO]: Hermiiii left the game
+[00:06:43] [Server thread/INFO]: Hermiiii[/25.99.34.164:54224] logged in with entity id 50076 at (91.90208151252473, 69.0, 556.2321184464294)
+[00:06:43] [Server thread/INFO]: Hermiiii joined the game
+[00:08:52] [Server thread/INFO]: Lateraxe has made the advancement [Take Aim]
+[00:09:19] [Server thread/WARN]: Lateraxe moved too quickly! -9.765038779467378,2.249187078744683,-1.6199715252758153
+[00:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[00:14:23] [Server thread/WARN]: Sadiko moved too quickly! 8.97204758336352,-1.0,-4.495970900051361
+[00:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
+[00:19:26] [Server thread/WARN]: Hermiiii moved too quickly! -0.45857120568464893,7.5,-7.140629217399464
+[00:19:26] [Server thread/WARN]: Lateraxe moved too quickly! -3.955321163811959,0.0,9.293230026779732
+[00:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[00:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[00:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[00:30:20] [Server thread/INFO]: Sadiko walked into fire whilst fighting Pillager
+[00:32:25] [Server thread/INFO]: Lateraxe has made the advancement [Diamonds!]
+[00:34:34] [Server thread/WARN]: Lateraxe moved too quickly! 5.74046248576127,0.0,-8.463902050121945
+[00:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[00:36:45] [Server thread/INFO]: Lateraxe lost connection: Disconnected
+[00:36:45] [Server thread/INFO]: Lateraxe left the game
+[00:36:49] [Server thread/INFO]: Lateraxe[/25.0.208.127:55083] logged in with entity id 59034 at (-66.69996718127919, 80.0, 101.67067877881811)
+[00:36:49] [Server thread/INFO]: Lateraxe joined the game
+[00:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[00:42:54] [Server thread/INFO]: Hermiiii lost connection: Disconnected
+[00:42:54] [Server thread/INFO]: Hermiiii left the game
+[00:54:14] [Server thread/INFO]: Sadiko lost connection: Disconnected
+[00:54:14] [Server thread/INFO]: Sadiko left the game
+[00:54:28] [Server thread/INFO]: Sadiko[/25.12.57.153:53951] logged in with entity id 62295 at (910.6999999880791, 74.0, 1141.5784041813367)
+[00:54:28] [Server thread/INFO]: Sadiko joined the game
+[00:57:41] [Server thread/INFO]: Lateraxe lost connection: Disconnected
+[00:57:41] [Server thread/INFO]: Lateraxe left the game
+[00:58:21] [Server thread/INFO]: Sadiko fell from a high place
+[00:58:36] [Server thread/INFO]: Sadiko lost connection: Disconnected
+[00:58:36] [Server thread/INFO]: Sadiko left the game
+[01:17:14] [Server thread/INFO]: Unknown command
+[01:17:14] [Server thread/INFO]: <--[HERE]
+[01:17:15] [Server thread/INFO]: Unknown command
+[01:17:15] [Server thread/INFO]: <--[HERE]
+[01:17:34] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[01:17:56] [Server thread/INFO]: Stopping the server
+[01:17:56] [Server thread/INFO]: Stopping server
+[01:17:56] [Server thread/INFO]: Saving players
+[01:17:56] [Server thread/INFO]: Saving worlds
+[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
