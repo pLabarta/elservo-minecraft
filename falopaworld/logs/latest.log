@@ -1,59 +1,28 @@
-[00:04:16] [Server thread/WARN]: Hermiiii moved too quickly! 0.6547560872614895,-7.155232004516606,7.18620997099174
-[00:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[00:04:21] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[00:04:21] [Server thread/INFO]: Hermiiii left the game
-[00:05:35] [Server thread/INFO]: Lateraxe has made the advancement [We Need to Go Deeper]
-[00:06:23] [Server thread/INFO]: Hermiiii[/25.99.34.164:54222] logged in with entity id 49831 at (91.90208151252473, 69.0, 556.2321184464294)
-[00:06:23] [Server thread/INFO]: Hermiiii joined the game
-[00:06:38] [Server thread/INFO]: Hermiiii lost connection: Timed out
-[00:06:38] [Server thread/INFO]: Hermiiii left the game
-[00:06:43] [Server thread/INFO]: Hermiiii[/25.99.34.164:54224] logged in with entity id 50076 at (91.90208151252473, 69.0, 556.2321184464294)
-[00:06:43] [Server thread/INFO]: Hermiiii joined the game
-[00:08:52] [Server thread/INFO]: Lateraxe has made the advancement [Take Aim]
-[00:09:19] [Server thread/WARN]: Lateraxe moved too quickly! -9.765038779467378,2.249187078744683,-1.6199715252758153
-[00:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
-[00:14:23] [Server thread/WARN]: Sadiko moved too quickly! 8.97204758336352,-1.0,-4.495970900051361
-[00:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
-[00:19:26] [Server thread/WARN]: Hermiiii moved too quickly! -0.45857120568464893,7.5,-7.140629217399464
-[00:19:26] [Server thread/WARN]: Lateraxe moved too quickly! -3.955321163811959,0.0,9.293230026779732
-[00:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[00:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
-[00:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
-[00:30:20] [Server thread/INFO]: Sadiko walked into fire whilst fighting Pillager
-[00:32:25] [Server thread/INFO]: Lateraxe has made the advancement [Diamonds!]
-[00:34:34] [Server thread/WARN]: Lateraxe moved too quickly! 5.74046248576127,0.0,-8.463902050121945
-[00:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
-[00:36:45] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[00:36:45] [Server thread/INFO]: Lateraxe left the game
-[00:36:49] [Server thread/INFO]: Lateraxe[/25.0.208.127:55083] logged in with entity id 59034 at (-66.69996718127919, 80.0, 101.67067877881811)
-[00:36:49] [Server thread/INFO]: Lateraxe joined the game
-[00:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
-[00:42:54] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[00:42:54] [Server thread/INFO]: Hermiiii left the game
-[00:54:14] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[00:54:14] [Server thread/INFO]: Sadiko left the game
-[00:54:28] [Server thread/INFO]: Sadiko[/25.12.57.153:53951] logged in with entity id 62295 at (910.6999999880791, 74.0, 1141.5784041813367)
-[00:54:28] [Server thread/INFO]: Sadiko joined the game
-[00:57:41] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[00:57:41] [Server thread/INFO]: Lateraxe left the game
-[00:58:21] [Server thread/INFO]: Sadiko fell from a high place
-[00:58:36] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[00:58:36] [Server thread/INFO]: Sadiko left the game
-[01:17:14] [Server thread/INFO]: Unknown command
-[01:17:14] [Server thread/INFO]: <--[HERE]
-[01:17:15] [Server thread/INFO]: Unknown command
-[01:17:15] [Server thread/INFO]: <--[HERE]
-[01:17:34] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[01:17:56] [Server thread/INFO]: Stopping the server
-[01:17:56] [Server thread/INFO]: Stopping server
-[01:17:56] [Server thread/INFO]: Saving players
-[01:17:56] [Server thread/INFO]: Saving worlds
-[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:17:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:12:00] [Server thread/INFO]: Sadiko[/25.12.57.153:53094] logged in with entity id 53864 at (911.022582156054, 74.0, 1138.8508903385177)
+[00:12:00] [Server thread/INFO]: Sadiko joined the game
+[00:12:12] [Server thread/INFO]: Sadiko lost connection: Disconnected
+[00:12:12] [Server thread/INFO]: Sadiko left the game
+[00:45:11] [Server thread/INFO]: Viti[/25.99.114.30:64859] logged in with entity id 54072 at (12.594554700467015, 66.0, 244.09160589838413)
+[00:45:11] [Server thread/INFO]: Viti joined the game
+[00:54:02] [Server thread/INFO]: Viti was shot by Skeleton
+[00:58:37] [Server thread/INFO]: Viti was shot by Skeleton
+[01:05:21] [Server thread/INFO]: Viti has made the advancement [Stone Age]
+[01:13:37] [Server thread/INFO]: Viti has made the advancement [Sweet Dreams]
+[01:17:38] [Server thread/INFO]: Viti has made the advancement [Getting an Upgrade]
+[01:53:52] [Server thread/INFO]: Viti lost connection: Disconnected
+[01:53:52] [Server thread/INFO]: Viti left the game
+[02:33:30] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[04:35:26] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[04:35:41] [Server thread/INFO]: Stopping the server
+[04:35:41] [Server thread/INFO]: Stopping server
+[04:35:41] [Server thread/INFO]: Saving players
+[04:35:41] [Server thread/INFO]: Saving worlds
+[04:35:41] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[04:35:41] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:35:41] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

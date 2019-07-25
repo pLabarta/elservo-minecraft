@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-07-24 17:16:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-07-24 00:31:53 -0300"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2019-07-24 16:55:48 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-23 22:04:50 -0300"
@@ -389,6 +401,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-07-24 19:55:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-07-24 00:31:53 -0300"
@@ -479,6 +503,18 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-07-23 21:47:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
     },
     "done": true
   },
@@ -686,6 +722,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2019-07-24 17:11:16 -0300",
+      "iron_helmet": "2019-07-24 17:11:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-07-24 00:05:57 -0300"
@@ -818,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-07-23 20:19:56 -0300"
@@ -845,6 +894,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-07-23 20:16:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
     },
     "done": true
   },
@@ -944,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-07-24 00:32:25 -0300"
@@ -953,6 +1014,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-07-24 00:32:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-07-24 19:55:48 -0300"
     },
     "done": true
   },
@@ -994,6 +1061,18 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-23 21:32:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-07-24 17:16:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
     },
     "done": true
   },
@@ -1070,9 +1149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2019-07-24 00:11:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-07-24 17:03:37 -0300"
     },
     "done": true
   },
@@ -1097,6 +1188,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2019-07-24 00:32:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-07-24 17:03:34 -0300"
     },
     "done": true
   },
@@ -1193,6 +1296,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-07-23 23:41:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
     },
     "done": true
   },
@@ -1370,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-07-24 16:55:48 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-07-24 00:31:53 -0300"
@@ -1439,6 +1554,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-23 22:04:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
     },
     "done": true
   },
@@ -1580,6 +1701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-07-23 23:41:37 -0300"
@@ -1613,6 +1740,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-07-23 21:08:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-07-24 16:59:09 -0300"
     },
     "done": true
   },
@@ -1650,6 +1783,18 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-07-23 20:22:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-07-24 19:45:06 -0300"
     },
     "done": true
   },
@@ -1767,6 +1912,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-07-23 20:22:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-07-24 19:55:48 -0300"
     },
     "done": true
   },
@@ -1902,6 +2053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-07-24 17:03:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2019-07-23 20:22:46 -0300"
@@ -1914,9 +2071,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-07-24 16:59:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-07-24 00:31:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-07-24 17:15:25 -0300"
     },
     "done": true
   },
