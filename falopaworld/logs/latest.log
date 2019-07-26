@@ -1,616 +1,92 @@
-[11:24:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:54] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[11:24:54] [Server thread/INFO]: Loading properties
-[11:24:54] [Server thread/INFO]: Default game type: SURVIVAL
-[11:24:54] [Server thread/INFO]: Generating keypair
-[11:24:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:24:55] [Server thread/INFO]: Using default channel type
-[11:24:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:24:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:24:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:24:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:24:57] [Server thread/INFO]: Preparing level "falopitaworld"
-[11:24:57] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:24:58] [Server thread/INFO]: Loaded 6 recipes
-[11:24:58] [Server thread/INFO]: Loaded 811 advancements
-[11:24:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:01] [Server thread/INFO]: Preparing spawn area: 0%
-[11:25:02] [Server thread/INFO]: Time elapsed: 2878 ms
-[11:25:02] [Server thread/INFO]: Done (4.974s)! For help, type "help"
-[11:25:44] [Server thread/INFO]: Farguito[/127.0.0.1:49416] logged in with entity id 126 at (121.40235600552971, 6.0, 226.75347316068093)
-[11:25:44] [Server thread/INFO]: Farguito joined the game
-[11:40:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1360, l='falopitaworld', x=70.09, y=63.00, z=232.83]
-[11:41:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1367, l='falopitaworld', x=69.63, y=63.00, z=232.83]
-[11:50:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1941, l='falopitaworld', x=70.19, y=63.00, z=234.84]
-[11:57:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2315, l='falopitaworld', x=72.17, y=63.00, z=234.03]
-[12:08:00] [Server thread/INFO]: Hermiiii[/25.99.34.164:50328] logged in with entity id 3026 at (87.07141783586383, 87.0, 528.5009949002825)
-[12:08:00] [Server thread/INFO]: Hermiiii joined the game
-[12:08:06] [Server thread/INFO]: <Farguito> olaaaaaaaaaaaaa
-[12:08:10] [Server thread/INFO]: <Hermiiii> holi
-[12:08:18] [Server thread/INFO]: <Farguito> que onda beluchi?
-[12:08:24] [Server thread/INFO]: <Farguito> estuve chusmeando sus casas
-[12:08:37] [Server thread/INFO]: <Hermiiii> jajaja el que dejo mis palos fue klein
-[12:08:43] [Server thread/INFO]: <Farguito> palos?
-[12:09:02] [Server thread/INFO]: <Hermiiii> por todo el mapa hay como pilas de bloques "pitos", que dejo klein para ubicarse
-[12:09:08] [Server thread/INFO]: <Farguito> AJAJAJAJA
-[12:09:47] [Server thread/INFO]: <Hermiiii> y que onda las casas
-[12:10:23] [Server thread/INFO]: <Farguito> vamo discord?
-[12:11:05] [Server thread/INFO]: <Hermiiii> ahora me meto
-[12:11:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3566, l='falopitaworld', x=68.87, y=63.00, z=236.17]
-[12:13:05] [Server thread/INFO]: <Hermiiii> toy
-[12:20:30] [Server thread/INFO]: Farguito was shot by Pillager
-[12:22:40] [Server thread/INFO]: Farguito was shot by Pillager
-[12:23:39] [Server thread/INFO]: Farguito was shot by Pillager
-[12:28:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/6321, l='falopitaworld', x=70.83, y=63.00, z=232.83]
-[12:30:07] [Server thread/INFO]: Sadiko[/25.12.57.153:53963] logged in with entity id 6458 at (909.299999974668, 74.0000002, 1142.299999974668)
-[12:30:07] [Server thread/INFO]: Sadiko joined the game
-[12:30:43] [Server thread/INFO]: Sadiko was shot by Skeleton
-[12:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
-[12:43:04] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[12:43:04] [Server thread/INFO]: Hermiiii left the game
-[12:43:07] [Server thread/INFO]: Farguito lost connection: Disconnected
-[12:43:07] [Server thread/INFO]: Farguito left the game
-[12:43:14] [Server thread/INFO]: Farguito[/127.0.0.1:49736] logged in with entity id 10638 at (127.69999998807907, 12.0, 226.56395255723007)
-[12:43:14] [Server thread/INFO]: Farguito joined the game
-[12:43:37] [Server thread/INFO]: Hermiiii[/25.99.34.164:50420] logged in with entity id 10759 at (300.4428354605641, 12.0, 680.1194531861246)
-[12:43:37] [Server thread/INFO]: Hermiiii joined the game
-[12:48:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11980, l='falopitaworld', x=69.94, y=63.00, z=235.09]
-[12:49:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12223, l='falopitaworld', x=69.03, y=63.00, z=235.75]
-[12:54:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13218, l='falopitaworld', x=69.95, y=62.94, z=233.24]
-[12:59:47] [Server thread/INFO]: Sadiko was shot by Skeleton
-[13:06:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16103, l='falopitaworld', x=70.88, y=62.94, z=233.73]
-[13:10:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17367, l='falopitaworld', x=71.33, y=63.00, z=232.83]
-[13:11:44] [Server thread/INFO]: Gave 1 [Soul Sand] to Farguito
-[13:16:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18855, l='falopitaworld', x=68.83, y=63.00, z=234.79]
-[13:19:18] [Server thread/INFO]: Hermiiii fell from a high place
-[13:21:00] [Server thread/WARN]: Sadiko was kicked for floating too long!
-[13:21:00] [Server thread/INFO]: Sadiko lost connection: Flying is not enabled on this server
-[13:21:00] [Server thread/INFO]: Sadiko left the game
-[13:21:06] [Server thread/INFO]: Sadiko[/25.12.57.153:54146] logged in with entity id 23703 at (909.299999974668, 74.0000002, 1142.299999974668)
-[13:21:06] [Server thread/INFO]: Sadiko joined the game
-[13:23:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/24696, l='falopitaworld', x=69.48, y=62.94, z=234.08]
-[13:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
-[13:27:54] [Server thread/INFO]: Hermiiii fell from a high place
-[13:30:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[13:31:53] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[13:31:53] [Server thread/INFO]: Hermiiii left the game
-[13:37:32] [Server thread/INFO]: Sadiko was shot by Skeleton
-[13:38:15] [Server thread/INFO]: Sadiko was blown up by Creeper
-[13:43:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32344, l='falopitaworld', x=72.17, y=63.00, z=234.74]
-[13:43:59] [Server thread/INFO]: Sadiko tried to swim in lava
-[13:45:01] [Server thread/INFO]: Hermiiii[/25.99.34.164:50723] logged in with entity id 32857 at (230.63379177509674, 99.0, 519.4123608353191)
-[13:45:01] [Server thread/INFO]: Hermiiii joined the game
-[13:46:14] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[13:46:14] [Server thread/INFO]: Sadiko left the game
-[13:46:17] [Server thread/INFO]: Sadiko[/25.12.57.153:54227] logged in with entity id 33296 at (913.2747405366861, 74.0, 1143.7233943891451)
-[13:46:17] [Server thread/INFO]: Sadiko joined the game
-[13:46:25] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[13:46:25] [Server thread/INFO]: Sadiko left the game
-[13:52:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34426, l='falopitaworld', x=69.07, y=63.00, z=235.24]
-[14:00:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35593, l='falopitaworld', x=71.39, y=62.94, z=234.08]
-[14:04:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35974, l='falopitaworld', x=71.45, y=62.94, z=235.62]
-[14:04:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35974, l='falopitaworld', x=71.45, y=62.94, z=235.62]
-[14:11:53] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:11:53] [Server thread/INFO]: Hermiiii left the game
-[14:12:21] [Server thread/INFO]: Hermiiii[/25.99.34.164:50838] logged in with entity id 36565 at (84.45459909385703, 64.0, 231.83991779265068)
-[14:12:21] [Server thread/INFO]: Hermiiii joined the game
-[14:13:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36787, l='falopitaworld', x=69.33, y=62.94, z=235.12]
-[14:13:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36834, l='falopitaworld', x=68.83, y=63.00, z=233.76]
-[14:14:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37059, l='falopitaworld', x=70.93, y=62.94, z=235.55]
-[14:15:02] [Server thread/INFO]: Hermiiii has made the advancement [Best Friends Forever]
-[14:18:06] [Server thread/INFO]: <Farguito> name tag
-[14:20:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37893, l='falopitaworld', x=70.75, y=62.94, z=233.75]
-[14:26:01] [Server thread/INFO]: Hermiiii was killed by Witch using magic
-[14:35:12] [Server thread/WARN]: Hermiiii moved too quickly! 9.87024356001124,-1.0,-1.5036513542434022
-[14:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
-[14:36:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40676, l='falopitaworld', x=69.34, y=62.94, z=235.69]
-[14:40:01] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:40:01] [Server thread/INFO]: Hermiiii left the game
-[14:40:23] [Server thread/INFO]: Hermiiii[/25.99.34.164:50915] logged in with entity id 42209 at (374.02079593696334, 68.0, 1085.9633460199075)
-[14:40:23] [Server thread/INFO]: Hermiiii joined the game
-[14:42:27] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:42:27] [Server thread/INFO]: Hermiiii left the game
-[14:43:52] [Server thread/INFO]: Hermiiii[/25.99.34.164:50919] logged in with entity id 43146 at (362.39424779730194, 64.0, 931.5221915124613)
-[14:43:52] [Server thread/INFO]: Hermiiii joined the game
-[14:45:13] [Server thread/WARN]: Horse (vehicle of Hermiiii) moved too quickly! -1.9790540824290588,-6.0,-7.957684546987707
-[14:45:13] [Server thread/WARN]: Horse (vehicle of Hermiiii) moved too quickly! -1.9743818013726013,-6.221488851774595,-8.237582527767586
-[14:45:13] [Server thread/WARN]: Horse (vehicle of Hermiiii) moved too quickly! -1.9655427799498852,-6.51103875065435,-8.512317099878487
-[14:45:59] [Server thread/WARN]: Horse moved wrongly!
-[14:46:26] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:46:26] [Server thread/INFO]: Hermiiii left the game
-[14:46:28] [Server thread/INFO]: Hermiiii[/25.99.34.164:50941] logged in with entity id 44285 at (77.93231171554402, 69.0, 501.089239035721)
-[14:46:28] [Server thread/INFO]: Hermiiii joined the game
-[14:49:26] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:49:26] [Server thread/INFO]: Hermiiii left the game
-[14:51:55] [Server thread/INFO]: Hermiiii[/25.99.34.164:50949] logged in with entity id 45103 at (82.58366361088353, 87.0, 511.85254331321687)
-[14:51:55] [Server thread/INFO]: Hermiiii joined the game
-[14:54:41] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[14:54:41] [Server thread/INFO]: Hermiiii left the game
-[14:58:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45864, l='falopitaworld', x=71.66, y=62.94, z=233.56]
-[15:01:06] [Server thread/INFO]: Gave 30 [Bone Meal] to Farguito
-[15:03:12] [Server thread/INFO]: Gave 60 [Glass] to Farguito
-[15:07:00] [Server thread/INFO]: Gave 60 [Glass] to Farguito
-[15:08:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46658, l='falopitaworld', x=71.41, y=62.94, z=235.63]
-[15:16:39] [Server thread/INFO]: Viti[/25.99.114.30:49563] logged in with entity id 47163 at (12.36483264686771, 72.0, 262.31979629449387)
-[15:16:39] [Server thread/INFO]: Viti joined the game
-[15:17:10] [Server thread/INFO]: <Viti> viti on the hause
-[15:17:27] [Server thread/INFO]: <Viti> z
-[15:17:28] [Server thread/INFO]: <Viti> z
-[15:17:28] [Server thread/INFO]: <Viti> z
-[15:17:28] [Server thread/INFO]: <Viti> z
-[15:17:35] [Server thread/INFO]: <Viti> x
-[15:17:36] [Server thread/INFO]: <Viti> z
-[15:17:41] [Server thread/INFO]: <Farguito> kk
-[15:18:15] [Server thread/INFO]: Gave 60 [Glass] to Farguito
-[15:28:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49003, l='falopitaworld', x=69.60, y=62.94, z=233.95]
-[15:28:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49003, l='falopitaworld', x=69.60, y=62.94, z=233.95]
-[15:33:51] [Server thread/INFO]: Viti lost connection: Disconnected
-[15:33:51] [Server thread/INFO]: Viti left the game
-[15:33:53] [Server thread/INFO]: Viti[/25.99.114.30:49585] logged in with entity id 49670 at (12.125629246139493, 68.0, 265.48075615099486)
-[15:33:53] [Server thread/INFO]: Viti joined the game
-[15:36:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50317, l='falopitaworld', x=71.74, y=62.94, z=234.01]
-[15:44:11] [Server thread/INFO]: Sadiko[/25.12.57.153:54967] logged in with entity id 51447 at (909.2078254567062, 74.0, 1143.4282392476505)
-[15:44:11] [Server thread/INFO]: Sadiko joined the game
-[15:46:41] [Server thread/INFO]: <Viti> klein
-[15:46:43] [Server thread/INFO]: <Viti> discod
-[15:47:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52124, l='falopitaworld', x=71.21, y=63.00, z=234.96]
-[15:47:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52124, l='falopitaworld', x=71.21, y=63.00, z=234.96]
-[15:48:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52285, l='falopitaworld', x=71.72, y=62.94, z=234.19]
-[15:48:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52285, l='falopitaworld', x=71.72, y=62.94, z=234.19]
-[15:57:07] [Server thread/INFO]: Lateraxe[/25.0.208.127:58156] logged in with entity id 53538 at (93.91571533870186, 89.0, 173.35025477322637)
-[15:57:07] [Server thread/INFO]: Lateraxe joined the game
-[15:57:15] [Server thread/INFO]: Hermiiii[/25.99.34.164:52282] logged in with entity id 53589 at (87.32149438969927, 91.0, 513.8484988297004)
-[15:57:15] [Server thread/INFO]: Hermiiii joined the game
-[15:57:47] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[15:57:47] [Server thread/INFO]: Lateraxe left the game
-[15:57:49] [Server thread/INFO]: Lateraxe[/25.0.208.127:58357] logged in with entity id 53798 at (105.25374670876784, 97.0, 149.7994111623529)
-[15:57:49] [Server thread/INFO]: Lateraxe joined the game
-[15:57:57] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[15:57:57] [Server thread/INFO]: Lateraxe left the game
-[15:58:28] [Server thread/INFO]: Lateraxe[/25.0.208.127:64089] logged in with entity id 53991 at (102.65738834776042, 97.0, 155.78511846463996)
-[15:58:28] [Server thread/INFO]: Lateraxe joined the game
-[16:00:40] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[16:00:40] [Server thread/INFO]: Hermiiii left the game
-[16:10:43] [Server thread/INFO]: Hermiiii[/25.99.34.164:52356] logged in with entity id 57500 at (87.80399186683161, 91.0, 513.9142744409246)
-[16:10:43] [Server thread/INFO]: Hermiiii joined the game
-[16:12:55] [Server thread/INFO]: Lateraxe has made the advancement [Ice Bucket Challenge]
-[16:12:59] [Server thread/INFO]: Hermiiii was slain by Zombie
-[16:15:14] [Server thread/WARN]: Hermiiii moved too quickly! 0.07931087156757144,-7.376630498238654,7.218634845247152
-[16:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[16:16:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59303, l='falopitaworld', x=68.83, y=63.00, z=234.73]
-[16:16:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59303, l='falopitaworld', x=68.83, y=63.00, z=234.73]
-[16:18:43] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[16:18:43] [Server thread/INFO]: Hermiiii left the game
-[16:19:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60451, l='falopitaworld', x=70.88, y=63.00, z=235.17]
-[16:19:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60451, l='falopitaworld', x=70.88, y=63.00, z=235.17]
-[16:19:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60451, l='falopitaworld', x=70.88, y=63.00, z=235.17]
-[16:23:11] [Server thread/INFO]: Hermiiii[/25.99.34.164:52394] logged in with entity id 61698 at (86.86548658193927, 87.0, 515.136887470541)
-[16:23:11] [Server thread/INFO]: Hermiiii joined the game
-[16:24:09] [Server thread/WARN]: Fetching packet for removed entity atx['Andesite'/62197, l='falopitaworld', x=23.13, y=41.00, z=286.81]
-[16:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
-[16:26:43] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/62971, l='falopitaworld', x=-25.89, y=71.89, z=145.70]
-[16:27:06] [Server thread/INFO]: Lateraxe burned to death
-[16:28:00] [Server thread/INFO]: <Hermiiii> dormir no no?
-[16:28:18] [Server thread/INFO]: <Hermiiii> ..........
-[16:28:27] [Server thread/INFO]: <Hermiiii> mal flash
-[16:28:31] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[16:28:31] [Server thread/INFO]: Sadiko left the game
-[16:28:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63912, l='falopitaworld', x=69.65, y=62.94, z=234.54]
-[16:28:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63912, l='falopitaworld', x=69.65, y=62.94, z=234.54]
-[16:28:56] [Server thread/INFO]: Farguito lost connection: Disconnected
-[16:28:56] [Server thread/INFO]: Farguito left the game
-[16:29:09] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[16:29:09] [Server thread/INFO]: Lateraxe left the game
-[16:29:12] [Server thread/INFO]: <Hermiiii> ty
-[16:29:13] [Server thread/INFO]: Lateraxe[/25.0.208.127:52757] logged in with entity id 63973 at (77.30482284665779, 62.0, 205.15840926539778)
-[16:29:14] [Server thread/INFO]: Lateraxe joined the game
-[16:29:35] [Server thread/INFO]: Farguito[/127.0.0.1:50590] logged in with entity id 64118 at (-90.32142085869386, 69.0, 276.16408592484777)
-[16:29:35] [Server thread/INFO]: Farguito joined the game
-[16:29:42] [Server thread/INFO]: <Hermiiii> empuje
-[16:30:06] [Server thread/INFO]: <Hermiiii> le pegas y lo alejas, cuando mas punchh tenes.. mas a la mierda lo mandas
-[16:30:18] [Server thread/WARN]: Hermiiii moved too quickly! 9.94314160545278,1.0244240882136921,-1.119486143510926
-[16:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[16:31:58] [Server thread/INFO]: Farguito lost connection: Disconnected
-[16:31:58] [Server thread/INFO]: Farguito left the game
-[16:32:26] [Server thread/INFO]: Farguito[/127.0.0.1:50607] logged in with entity id 65041 at (134.69999998807907, 64.0, 222.35146833088734)
-[16:32:26] [Server thread/INFO]: Farguito joined the game
-[16:33:11] [Server thread/INFO]: <Hermiiii> jajaja
-[16:33:46] [Server thread/INFO]: <Hermiiii> alguien tiene cuero de vaca para donar a la torre del reloj?
-[16:34:10] [Server thread/INFO]: <Hermiiii> es la casa naranja de la que me choreaste el carrito del tren
-[16:34:25] [Server thread/INFO]: <Hermiiii> lo sabia!
-[16:34:29] [Server thread/INFO]: <Hermiiii> jajajaj n
-[16:34:30] [Server thread/INFO]: <Hermiiii> np
-[16:34:32] [Server thread/INFO]: <Hermiiii> c
-[16:34:41] [Server thread/INFO]: <Hermiiii> JAJAJAJAJAJAJJ
-[16:34:50] [Server thread/INFO]: <Hermiiii> mas o menos, porque comunica todo lo demas
-[16:35:02] [Server thread/INFO]: <Hermiiii> pues picando
-[16:35:11] [Server thread/INFO]: <Hermiiii> balde de agua
-[16:35:14] [Server thread/INFO]: <Hermiiii> PRIMERA LEY
-[16:35:20] [Server thread/INFO]: <Hermiiii> ya deberian saberlo
-[16:35:20] [Server thread/INFO]: <Hermiiii> ¬¬
-[16:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
-[16:35:44] [Server thread/INFO]: <Hermiiii> axel fuiste a tu casa?
-[16:36:01] [Server thread/INFO]: <Hermiiii> jajajajajaja
-[16:36:43] [Server thread/INFO]: <Hermiiii> q
-[16:37:05] [Server thread/INFO]: <Hermiiii> ahhhh la mansion esa del aldeano re parado?
-[16:37:17] [Server thread/INFO]: <Hermiiii> hiper cerca de mi casa ahi te paso
-[16:37:33] [Server thread/INFO]: <Hermiiii> 346 902
-[16:38:02] [Server thread/INFO]: <Hermiiii> te presto a tormenta si queres
-[16:39:00] [Server thread/INFO]: <Hermiiii> lo mismo que todas las noches
-[16:39:30] [Server thread/INFO]: Viti has made the advancement [Suit Up]
-[16:39:32] [Server thread/INFO]: <Hermiiii> c
-[16:39:43] [Server thread/INFO]: <Hermiiii> con mas cosas raras
-[16:40:23] [Server thread/WARN]: Farguito moved too quickly! -1.47951741046802,-0.07702288756920694,9.934513336802695
-[16:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
-[16:40:27] [Server thread/INFO]: <Hermiiii> che para diamante la mejor altura es 10?
-[16:40:46] [Server thread/INFO]: <Hermiiii> c
-[16:41:58] [Server thread/INFO]: <Hermiiii> CUIDADO
-[16:42:45] [Server thread/INFO]: <Hermiiii> si la vacias avisame y voy con vos a investigar
-[16:43:21] [Server thread/INFO]: <Hermiiii> "hace que labura"
-[16:43:58] [Server thread/INFO]: <Hermiiii> uh gg,
-[16:44:36] [Server thread/INFO]: <Hermiiii> me mataste
-[16:44:47] [Server thread/INFO]: <Hermiiii> soy belupedia pero no tengo el upgrade todavia
-[16:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
-[16:45:37] [Server thread/INFO]: <Hermiiii> uhh
-[16:45:43] [Server thread/INFO]: <Hermiiii> vale la pena que vaya?
-[16:45:45] [Server thread/INFO]: <Hermiiii> gg
-[16:45:45] [Server thread/INFO]: <Farguito> na
-[16:45:50] [Server thread/INFO]: <Hermiiii> TRAEME CUEROS DE VACAAAAAAAAAAAAAAA
-[16:45:55] [Server thread/INFO]: <Farguito> oka
-[16:45:58] [Server thread/INFO]: <Hermiiii> te escucho cono
-[16:46:01] [Server thread/INFO]: <Hermiiii> arranque la biblio
-[16:46:02] [Server thread/INFO]: <Farguito> ya se
-[16:46:25] [Server thread/INFO]: <Hermiiii> bueno la mansion esta llena de esos pero peor
-[16:46:45] [Server thread/INFO]: Viti was slain by Zombie
-[16:46:55] [Server thread/INFO]: <Hermiiii> axel es un sucio
-[16:46:59] [Server thread/INFO]: <Hermiiii> ayer me mato a mi tmb
-[16:49:00] [Server thread/INFO]: <Hermiiii> si te exploto la cama, perdes el punto de spawneo
-[16:50:28] [Server thread/WARN]: Viti moved too quickly! -9.94118801552657,0.7477966597462711,1.796456185871648
-[16:50:28] [Server thread/WARN]: Farguito moved too quickly! 1.9801385545159746,3.0,9.390946112548818
-[16:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
-[16:50:28] [Server thread/INFO]: Sadiko[/25.12.57.153:55479] logged in with entity id 71027 at (909.299999974668, 74.0000002, 1142.299999974668)
-[16:50:28] [Server thread/INFO]: Sadiko joined the game
-[16:50:28] [Server thread/WARN]: Hermiiii moved wrongly!
-[16:50:38] [Server thread/INFO]: <Hermiiii> que cosa? no la habias limpiado toda?
-[16:50:46] [Server thread/INFO]: <Hermiiii> JAJAJAJAJAJA
-[16:50:56] [Server thread/INFO]: <Hermiiii> por mas antorcha qe pongas
-[16:51:03] [Server thread/INFO]: <Sadiko> aksnfdksnf
-[16:51:05] [Server thread/INFO]: <Sadiko> tadsgdaggdaogdngdapkn
-[16:51:06] [Server thread/INFO]: <Sadiko> dakgnkldangklndag
-[16:51:08] [Server thread/INFO]: <Sadiko> gakldngkdalgnkldagnt
-[16:51:09] [Server thread/INFO]: <Sadiko> akdngadkgnklgdnkgda
-[16:51:10] [Server thread/INFO]: <Hermiiii> ..
-[16:51:11] [Server thread/INFO]: <Sadiko> gakdngaklngkldankgda
-[16:52:04] [Server thread/INFO]: <Hermiiii> bandera hay en mi aldea
-[16:52:05] [Server thread/INFO]: <Hermiiii> ahi vengo
-[16:52:07] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[16:52:07] [Server thread/INFO]: Hermiiii left the game
-[16:52:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72128, l='falopitaworld', x=71.32, y=63.00, z=232.85]
-[16:52:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72128, l='falopitaworld', x=71.32, y=63.00, z=232.85]
-[16:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
-[16:57:28] [Server thread/INFO]: Farguito lost connection: Disconnected
-[16:57:28] [Server thread/INFO]: Farguito left the game
-[16:58:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/73990, l='falopitaworld', x=70.60, y=63.00, z=235.02]
-[16:58:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/73990, l='falopitaworld', x=70.60, y=63.00, z=235.02]
-[16:58:07] [Server thread/INFO]: Farguito[/127.0.0.1:50690] logged in with entity id 74019 at (-22.661486024422334, 70.0, 961.7911260505306)
-[16:58:07] [Server thread/INFO]: Farguito joined the game
-[16:58:59] [Server thread/INFO]: Hermiiii[/25.99.34.164:52514] logged in with entity id 74473 at (257.666039991884, 17.0, 471.53514294362253)
-[16:58:59] [Server thread/INFO]: Hermiiii joined the game
-[16:59:13] [Server thread/INFO]: Farguito lost connection: Disconnected
-[16:59:13] [Server thread/INFO]: Farguito left the game
-[16:59:42] [Server thread/INFO]: Farguito[/127.0.0.1:50703] logged in with entity id 74864 at (-69.34587057317752, 65.0, 946.1647766869302)
-[16:59:42] [Server thread/INFO]: Farguito joined the game
-[17:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
-[17:01:52] [Server thread/INFO]: Sadiko burned to death
-[17:02:02] [Server thread/INFO]: <Hermiiii> andate a cagar
-[17:02:07] [Server thread/INFO]: <Hermiiii> lo iba a decir pero me contuve
-[17:02:14] [Server thread/INFO]: Farguito was blown up by Creeper
-[17:02:46] [Server thread/INFO]: <Hermiiii> bien
-[17:03:18] [Server thread/INFO]: Teleported Farguito to -69.5, 65.0, 946.5
-[17:03:18] [Server thread/WARN]: Farguito moved too quickly! -190.10659704860117,59.0,725.2578677976048
-[17:03:18] [Server thread/WARN]: Farguito moved too quickly! -190.10659704860117,59.0,725.2578677976048
-[17:05:33] [Server thread/INFO]: <Hermiiii> enderman* slender es otro juego
-[17:05:37] [Server thread/WARN]: Farguito moved too quickly! -9.962160637947363,0.0,1.6494573462107383
-[17:05:37] [Server thread/WARN]: Sadiko moved too quickly! 6.995746314876442,1.0,7.142140349095143
-[17:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
-[17:05:37] [Server thread/WARN]: Hermiiii moved wrongly!
-[17:05:50] [Server thread/INFO]: <Hermiiii> porque no estoy de animos
-[17:06:13] [Server thread/INFO]: <Hermiiii> si hablo me pongo a llorar
-[17:06:21] [Server thread/INFO]: <Hermiiii> alta loca
-[17:06:56] [Server thread/INFO]: <Hermiiii> nono, avisame
-[17:06:58] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[17:06:58] [Server thread/INFO]: Hermiiii left the game
-[17:07:00] [Server thread/INFO]: Farguito lost connection: Disconnected
-[17:07:00] [Server thread/INFO]: Farguito left the game
-[17:07:02] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[17:07:02] [Server thread/INFO]: Sadiko left the game
-[17:07:25] [Server thread/INFO]: Farguito[/127.0.0.1:50734] logged in with entity id 79975 at (-396.61741140269277, 70.18119833858967, 822.6999999880791)
-[17:07:25] [Server thread/INFO]: Farguito joined the game
-[17:07:46] [Server thread/INFO]: Hermiiii[/25.99.34.164:52553] logged in with entity id 80219 at (322.1271653204647, 10.0, 564.3846669528439)
-[17:07:46] [Server thread/INFO]: Hermiiii joined the game
-[17:08:03] [Server thread/INFO]: <Hermiiii> c
-[17:08:07] [Server thread/INFO]: <Hermiiii> los tintes
-[17:08:08] [Server thread/INFO]: <Hermiiii> en las flores
-[17:08:26] [Server thread/INFO]: <Hermiiii> las flores rojas y amarillas las pones en el cuadrado del crafteo
-[17:08:28] [Server thread/INFO]: <Hermiiii> y te da el tinte
-[17:08:31] [Server thread/INFO]: <Hermiiii> lo mismo las otras flores
-[17:08:35] [Server thread/INFO]: <Hermiiii> el tinte negro sale del pulpo
-[17:08:40] [Server thread/INFO]: <Hermiiii> el tinte verde sale del cactus
-[17:08:45] [Server thread/INFO]: <Hermiiii> creo que tenes que cocinar el cactus y te lo dan
-[17:08:46] [Server thread/INFO]: <Hermiiii> oka
-[17:09:23] [Server thread/INFO]: <Hermiiii> belupedia a tu servicio
-[17:09:24] [Server thread/INFO]: <Hermiiii> q
-[17:09:27] [Server thread/INFO]: <Hermiiii> UHH LIBROS??!
-[17:10:34] [Server thread/INFO]: <Hermiiii> un mapa?
-[17:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
-[17:10:40] [Server thread/WARN]: Hermiiii moved wrongly!
-[17:11:14] [Server thread/INFO]: <Hermiiii> :(
-[17:11:33] [Server thread/INFO]: <Hermiiii> suele haber cerca de la costa
-[17:13:17] [Server thread/INFO]: Farguito lost connection: Disconnected
-[17:13:17] [Server thread/INFO]: Farguito left the game
-[17:13:43] [Server thread/INFO]: <Hermiiii> hay un mod para eso
-[17:14:22] [Server thread/INFO]: <Hermiiii> encendedores
-[17:14:42] [Server thread/INFO]: Sadiko[/25.12.57.153:55647] logged in with entity id 83099 at (654.9458308981758, 96.0, 277.09772229039805)
-[17:14:42] [Server thread/INFO]: Sadiko joined the game
-[17:16:58] [Server thread/INFO]: Farguito[/127.0.0.1:50768] logged in with entity id 84402 at (-617.7026480450012, 65.0, 970.09048023604)
-[17:16:58] [Server thread/INFO]: Farguito joined the game
-[17:17:57] [Server thread/INFO]: <Hermiiii> con 4 vidrios creo
-[17:17:57] [Server thread/INFO]: <Hermiiii> q
-[17:18:05] [Server thread/INFO]: <Hermiiii> porque tenes hambre
-[17:18:11] [Server thread/INFO]: <Hermiiii> matar vacas :D
-[17:19:02] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[17:19:02] [Server thread/INFO]: Hermiiii left the game
-[17:19:04] [Server thread/INFO]: Farguito lost connection: Disconnected
-[17:19:04] [Server thread/INFO]: Farguito left the game
-[17:19:05] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[17:19:05] [Server thread/INFO]: Sadiko left the game
-[17:19:06] [Server thread/INFO]: Viti lost connection: Disconnected
-[17:19:06] [Server thread/INFO]: Viti left the game
-[17:19:08] [Server thread/INFO]: Viti[/25.99.114.30:49706] logged in with entity id 86273 at (11.076468204225806, 68.0, 263.0216071810199)
-[17:19:08] [Server thread/INFO]: Viti joined the game
-[17:19:09] [Server thread/INFO]: Farguito[/127.0.0.1:50778] logged in with entity id 86313 at (-771.7075437675215, 64.0, 749.4844592918978)
-[17:19:09] [Server thread/INFO]: Farguito joined the game
-[17:19:14] [Server thread/INFO]: Sadiko[/25.12.57.153:55674] logged in with entity id 86529 at (1017.9948412101845, 64.0, 631.4402919481059)
-[17:19:14] [Server thread/INFO]: Sadiko joined the game
-[17:19:15] [Server thread/INFO]: Hermiiii[/25.99.34.164:52587] logged in with entity id 86577 at (322.80836715489204, 9.0, 574.7104649361833)
-[17:19:15] [Server thread/INFO]: Hermiiii joined the game
-[17:19:37] [Server thread/INFO]: <Hermiiii> wiiiii
-[17:19:50] [Server thread/INFO]: <Hermiiii> la que yo tengo en casa tmb tenian
-[17:19:57] [Server thread/INFO]: <Hermiiii> c
-[17:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
-[17:23:30] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[17:23:30] [Server thread/INFO]: Hermiiii left the game
-[17:25:46] [Server thread/WARN]: Farguito moved too quickly! 0.7788047236977036,-3.0,-9.69089749380953
-[17:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
-[17:27:08] [Server thread/INFO]: Farguito has made the advancement [What a Deal!]
-[17:27:19] [Server thread/INFO]: Hermiiii[/25.99.34.164:52616] logged in with entity id 90686 at (164.8688614028367, 70.0, 579.9212498412002)
-[17:27:19] [Server thread/INFO]: Hermiiii joined the game
-[17:27:20] [Server thread/INFO]: <Hermiiii> yo
-[17:27:35] [Server thread/INFO]: <Hermiiii> mentiraaa, no la agarro, porque tengo el coso lleno
-[17:28:11] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/91179, l='falopitaworld', x=16.52, y=49.50, z=255.33]
-[17:29:31] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[17:29:31] [Server thread/INFO]: Hermiiii left the game
-[17:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[17:30:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/92405, l='falopitaworld', x=69.29, y=62.94, z=233.27]
-[17:32:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/92923, l='falopitaworld', x=70.48, y=63.00, z=234.55]
-[17:33:26] [Server thread/INFO]: Farguito lost connection: Disconnected
-[17:33:26] [Server thread/INFO]: Farguito left the game
-[17:33:45] [Server thread/INFO]: Viti lost connection: Disconnected
-[17:33:45] [Server thread/INFO]: Viti left the game
-[17:33:47] [Server thread/WARN]: Sadiko was kicked for floating too long!
-[17:33:47] [Server thread/INFO]: Sadiko lost connection: Flying is not enabled on this server
-[17:33:47] [Server thread/INFO]: Sadiko left the game
-[17:33:48] [Server thread/INFO]: Viti[/25.99.114.30:49729] logged in with entity id 93242 at (23.409910653787165, 41.0, 317.9720052839425)
-[17:33:48] [Server thread/INFO]: Viti joined the game
-[17:33:49] [Server thread/INFO]: Farguito[/127.0.0.1:50856] logged in with entity id 93313 at (-706.1385434721833, 68.0, 587.1969681260522)
-[17:33:49] [Server thread/INFO]: Farguito joined the game
-[17:33:54] [Server thread/INFO]: Sadiko[/25.12.57.153:55805] logged in with entity id 93535 at (909.299999974668, 74.0000002, 1142.299999974668)
-[17:33:54] [Server thread/INFO]: Sadiko joined the game
-[17:34:07] [Server thread/INFO]: Hermiiii[/25.99.34.164:52631] logged in with entity id 93819 at (84.47649467163185, 87.0, 514.2589289815568)
-[17:34:07] [Server thread/INFO]: Hermiiii joined the game
-[17:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
-[17:36:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/94815, l='falopitaworld', x=71.09, y=62.94, z=235.74]
-[17:37:02] [Server thread/INFO]: <Hermiiii> ?
-[17:37:06] [Server thread/INFO]: <Hermiiii> pisos de colores con gravel?
-[17:37:13] [Server thread/INFO]: <Hermiiii> c
-[17:37:16] [Server thread/INFO]: <Hermiiii> yo puse lana en el piso
-[17:38:28] [Server thread/INFO]: <Hermiiii> wi
-[17:39:40] [Server thread/INFO]: <Hermiiii> era una flia de bien a de lein
-[17:40:30] [Server thread/INFO]: Farguito has made the advancement [Voluntary Exile]
-[17:40:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
-[17:45:57] [Server thread/WARN]: Viti moved too quickly! -3.211583449194837,2.0,9.492802438311116
-[17:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
-[17:50:10] [Server thread/INFO]: <Hermiiii> oro y redstone
-[17:50:15] [Server thread/INFO]: <Hermiiii> y palos de madera
-[17:51:00] [Server thread/INFO]: <Hermiiii> dormir?
-[17:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[17:51:37] [Server thread/INFO]: Viti was shot by Skeleton
-[17:52:02] [Server thread/INFO]: <Hermiiii> jajajaja recien veo tu cartel viti
-[17:53:58] [Server thread/INFO]: Viti lost connection: Disconnected
-[17:53:58] [Server thread/INFO]: Viti left the game
-[17:55:11] [Server thread/INFO]: <Hermiiii> hay que tener fortuna en el pico
-[17:56:02] [Server thread/WARN]: Hermiiii moved too quickly! 0.30100941963017647,5.475575911786308,-8.56828843712367
-[17:56:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
-[17:57:11] [Server thread/INFO]: <Hermiiii> estas en tu casa fer?
-[17:57:23] [Server thread/INFO]: <Hermiiii> voy
-[17:57:48] [Server thread/INFO]: <Hermiiii> que tan grande hiciste el pito?
-[17:58:45] [Server thread/INFO]: <Hermiiii> igual
-[17:58:48] [Server thread/INFO]: <Hermiiii> klein
-[17:58:52] [Server thread/INFO]: <Hermiiii> clava las coordenadas
-[17:58:56] [Server thread/INFO]: <Hermiiii> ESGTA BASTIAN EN EL DISCORD
-[17:58:58] [Server thread/INFO]: <Hermiiii> AJAJAJAJAJAJAJAJAJAJAJ
-[17:59:13] [Server thread/INFO]: <Hermiiii> KLEEEEEEEEEEEEEIN
-[17:59:18] [Server thread/INFO]: <Hermiiii> volvela a mandar
-[17:59:23] [Server thread/INFO]: <Hermiiii> pero con las coordenadas bobo
-[17:59:28] [Server thread/INFO]: <Hermiiii> asi te queda posta para ubicarte
-[17:59:46] [Server thread/INFO]: <Hermiiii> jajaajajaj
-[17:59:48] [Server thread/INFO]: <Hermiiii> holid
-[17:59:57] [Server thread/INFO]: <Hermiiii> es gg
-[18:00:05] [Server thread/INFO]: <Hermiiii> uhhhhhhhh bocha de libros
-[18:00:07] [Server thread/INFO]: <Hermiiii> somos gardel
-[18:00:51] [Server thread/INFO]: <Hermiiii> dia
-[18:02:39] [Server thread/INFO]: <Hermiiii> fer
-[18:02:49] [Server thread/INFO]: <Hermiiii> no alcanzo
-[18:03:01] [Server thread/INFO]: <Hermiiii> me faltan 3 bibliotecas si o si
-[18:03:14] [Server thread/INFO]: <Hermiiii> y ni me acuerdo si eran necesarias que tengan dos o tres biblios apiladas
-[18:03:29] [Server thread/INFO]: <Hermiiii> ah no banca
-[18:03:33] [Server thread/INFO]: <Hermiiii> me quedan libros
-[18:03:36] [Server thread/INFO]: <Hermiiii> me quede sin madera
-[18:04:25] [Server thread/INFO]: <Hermiiii> HABEMUS MAGIAAAAAAAAAAAAAAAA
-[18:04:35] [Server thread/INFO]: <Hermiiii> ....
-[18:04:46] [Server thread/INFO]: <Hermiiii> NO
-[18:05:01] [Server thread/INFO]: <Hermiiii> es hora de usar la granja de exp
-[18:05:21] [Server thread/INFO]: <Hermiiii> no lo se rick, parece falso
-[18:05:33] [Server thread/INFO]: <Hermiiii> tenes que hacer lo mismo que con los judios
-[18:05:36] [Server thread/INFO]: <Hermiiii> al horno
-[18:05:41] [Server thread/INFO]: Sadiko has made the advancement [Acquire Hardware]
-[18:06:04] [Server thread/INFO]: <Hermiiii> c
-[18:08:56] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[18:08:56] [Server thread/INFO]: Hermiiii left the game
-[18:08:58] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[18:08:58] [Server thread/INFO]: Lateraxe left the game
-[18:09:08] [Server thread/INFO]: Lateraxe[/25.0.208.127:52986] logged in with entity id 106406 at (95.4934340132922, 89.0, 172.00197938277736)
-[18:09:08] [Server thread/INFO]: Lateraxe joined the game
-[18:09:09] [Server thread/INFO]: Hermiiii[/25.99.34.164:52808] logged in with entity id 106435 at (350.30000001192093, 57.0, 675.5092656509653)
-[18:09:09] [Server thread/INFO]: Hermiiii joined the game
-[18:09:37] [Server thread/INFO]: Sadiko was shot by Skeleton
-[18:10:28] [Server thread/INFO]: Sadiko has made the advancement [A Seedy Place]
-[18:10:41] [Server thread/INFO]: <Hermiiii> jaajajaajaj
-[18:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
-[18:11:28] [Server thread/INFO]: <Hermiiii> SOS JODA
-[18:11:34] [Server thread/INFO]: <Hermiiii> RECIEN AHORA QUERES APRENDER?
-[18:11:37] [Server thread/INFO]: <Hermiiii> jajajajajaj
-[18:11:44] [Server thread/INFO]: <Hermiiii> a shompi
-[18:12:20] [Server thread/INFO]: <Hermiiii> no es chernobyl
-[18:12:32] [Server thread/INFO]: <Hermiiii> al abuelo beto
-[18:12:47] [Server thread/INFO]: <Hermiiii> todos se tienen que llamar beto en esa flia
-[18:12:59] [Server thread/INFO]: <Hermiiii> beto primero
-[18:13:01] [Server thread/INFO]: <Hermiiii> beto segundo
-[18:13:05] [Server thread/INFO]: <Hermiiii> beta2
-[18:18:48] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[18:18:48] [Server thread/INFO]: Hermiiii left the game
-[18:19:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109597, l='falopitaworld', x=69.94, y=63.00, z=236.17]
-[18:28:06] [Server thread/INFO]: Hermiiii[/25.99.34.164:52865] logged in with entity id 111406 at (303.69999998807907, 5.0, 676.101189795214)
-[18:28:06] [Server thread/INFO]: Hermiiii joined the game
-[18:28:12] [Server thread/INFO]: <Hermiiii> me hablaste a mi?
-[18:29:43] [Server thread/INFO]: Farguito lost connection: Disconnected
-[18:29:43] [Server thread/INFO]: Farguito left the game
-[18:30:57] [Server thread/INFO]: <Hermiiii> por mas granja, no subo mas
-[18:31:07] [Server thread/INFO]: <Hermiiii> 30
-[18:31:15] [Server thread/INFO]: <Hermiiii> c
-[18:36:55] [Server thread/INFO]: <Hermiiii> debo irme a pasar tiempo con la flia..
-[18:37:01] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[18:37:01] [Server thread/INFO]: Hermiiii left the game
-[18:39:10] [Server thread/INFO]: Sadiko tried to swim in lava
-[18:46:29] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[18:46:29] [Server thread/INFO]: Lateraxe left the game
-[18:46:31] [Server thread/INFO]: Lateraxe[/25.0.208.127:59184] logged in with entity id 115074 at (96.33707053505822, 89.0, 182.36648477431012)
-[18:46:31] [Server thread/INFO]: Lateraxe joined the game
-[18:51:08] [Server thread/WARN]: Lateraxe moved too quickly! 7.837527626864357,1.5800000131130219,6.255924080875616
-[18:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
-[18:55:20] [Server thread/INFO]: Sadiko has made the advancement [Isn't It Iron Pick]
-[18:55:23] [Server thread/INFO]: Sadiko has made the advancement [Suit Up]
-[18:57:55] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[18:57:55] [Server thread/INFO]: Lateraxe left the game
-[18:58:02] [Server thread/INFO]: Lateraxe[/25.0.208.127:61010] logged in with entity id 117486 at (907.6454275561372, 74.0, 1146.0000558125114)
-[18:58:02] [Server thread/INFO]: Lateraxe joined the game
-[18:59:46] [Server thread/INFO]: Sadiko was blown up by Creeper
-[19:08:49] [Server thread/INFO]: Hermiiii[/25.99.34.164:53081] logged in with entity id 118287 at (303.2578687691632, 5.0, 676.1830963309326)
-[19:08:49] [Server thread/INFO]: Hermiiii joined the game
-[19:10:56] [Server thread/INFO]: Sadiko tried to swim in lava to escape Phantom
-[19:11:10] [Server thread/INFO]: Lateraxe was slain by Phantom
-[19:14:32] [Server thread/INFO]: <Hermiiii> ahi vengo
-[19:14:34] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[19:14:34] [Server thread/INFO]: Hermiiii left the game
-[19:17:25] [Server thread/INFO]: Sadiko was shot by Skeleton
-[19:19:57] [Server thread/INFO]: Hermiiii[/25.99.34.164:53121] logged in with entity id 121090 at (302.6974190325265, 6.0, 673.3000000119209)
-[19:19:57] [Server thread/INFO]: Hermiiii joined the game
-[19:20:05] [Server thread/INFO]: <Hermiiii> si me hablan por mic no estoy escuchando
-[19:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[19:26:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/123116, l='falopitaworld', x=70.33, y=62.94, z=235.26]
-[19:30:54] [Server thread/INFO]: <Hermiiii> a dormir?
-[19:31:06] [Server thread/INFO]: <Lateraxe> toy yendo a la camucha
-[19:31:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
-[19:31:14] [Server thread/INFO]: <Hermiiii> kk
-[19:31:19] [Server thread/INFO]: <Hermiiii> avisame y quit
-[19:32:12] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[19:32:12] [Server thread/INFO]: Sadiko left the game
-[19:32:15] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[19:32:15] [Server thread/INFO]: Hermiiii left the game
-[19:32:22] [Server thread/INFO]: Hermiiii[/25.99.34.164:53162] logged in with entity id 124748 at (108.93903151833156, 68.5, 256.2753426964872)
-[19:32:22] [Server thread/INFO]: Hermiiii joined the game
-[19:33:12] [Server thread/INFO]: Sadiko[/25.12.57.153:56572] logged in with entity id 124890 at (887.2831798292738, 83.0, 831.697338089957)
-[19:33:12] [Server thread/INFO]: Sadiko joined the game
-[19:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
-[19:38:17] [Server thread/INFO]: Sadiko was pricked to death
-[19:40:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/127345, l='falopitaworld', x=71.67, y=62.94, z=233.27]
-[19:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[19:43:45] [Server thread/INFO]: Sadiko fell from a high place
-[19:45:27] [Server thread/INFO]: Lateraxe was shot by Skeleton
-[19:45:50] [Server thread/INFO]: <Hermiiii> me alegro
-[19:46:01] [Server thread/INFO]: <Hermiiii> porque estoy con mi hno
-[19:46:08] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[19:46:08] [Server thread/INFO]: Hermiiii left the game
-[19:46:13] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[19:46:13] [Server thread/INFO]: Sadiko left the game
-[19:46:31] [Server thread/INFO]: Sadiko[/25.12.57.153:56663] logged in with entity id 129825 at (782.4178574886018, 83.0, 733.8214207551996)
-[19:46:31] [Server thread/INFO]: Sadiko joined the game
-[19:46:37] [Server thread/INFO]: Hermiiii[/25.99.34.164:53222] logged in with entity id 130054 at (235.49544531563978, 99.0, 519.6865585956033)
-[19:46:37] [Server thread/INFO]: Hermiiii joined the game
-[19:46:49] [Server thread/INFO]: <Hermiiii> lo que esta en frente de lo de shompi=
-[19:47:08] [Server thread/INFO]: <Hermiiii> y la foto?
-[19:47:12] [Server thread/INFO]: <Hermiiii> (de tu culo y mi choot?)
-[19:47:21] [Server thread/INFO]: <Hermiiii> bueno
-[19:47:23] [Server thread/INFO]: <Hermiiii> lavater el culo
-[19:47:33] [Server thread/INFO]: <Hermiiii> :)
-[19:47:35] [Server thread/INFO]: <Hermiiii> tkm klein
-[19:47:43] [Server thread/INFO]: <Hermiiii> JAJAJAJAJ
-[19:47:48] [Server thread/INFO]: <Hermiiii> ESOS PELOS
-[19:49:09] [Server thread/INFO]: <Hermiiii> para comer'?"?"?"?"?"??!!?!!?!?
-[19:49:13] [Server thread/INFO]: <Hermiiii> man no son ni las 8
-[19:49:24] [Server thread/INFO]: <Hermiiii> mierda
-[19:49:28] [Server thread/INFO]: <Hermiiii> hoy cocina jajaj
-[19:49:30] [Server thread/INFO]: <Hermiiii> por eso llueve
-[19:50:01] [Server thread/INFO]: Lateraxe lost connection: Disconnected
-[19:50:01] [Server thread/INFO]: Lateraxe left the game
-[19:50:29] [Server thread/INFO]: <Hermiiii> 670 624
-[19:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
-[20:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
-[20:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
-[20:13:24] [Server thread/INFO]: Hermiiii has made the advancement [Cover Me With Diamonds]
-[20:13:49] [Server thread/INFO]: Hermiiii has made the advancement [Enchanter]
-[20:16:27] [Server thread/WARN]: Sadiko moved too quickly! -7.438557751378198,-3.419999986886978,5.993858737423579
-[20:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
-[20:17:44] [Server thread/INFO]: <Hermiiii> a dormir?
-[20:18:01] [Server thread/INFO]: Sadiko was slain by Husk
-[20:19:52] [Server thread/INFO]: Hermiiii lost connection: Disconnected
-[20:19:52] [Server thread/INFO]: Hermiiii left the game
-[20:34:11] [Server thread/INFO]: Sadiko was burnt to a crisp whilst fighting Zombie
-[20:34:22] [Server thread/INFO]: Sadiko was slain by Zombie
-[20:51:51] [Server thread/INFO]: Sadiko tried to swim in lava
-[21:00:11] [Server thread/INFO]: Sadiko fell from a high place
-[21:00:24] [Server thread/INFO]: Sadiko lost connection: Disconnected
-[21:00:24] [Server thread/INFO]: Sadiko left the game
-[22:00:04] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[22:00:06] [Server thread/INFO]: Stopping the server
-[22:00:06] [Server thread/INFO]: Stopping server
-[22:00:06] [Server thread/INFO]: Saving players
-[22:00:06] [Server thread/INFO]: Saving worlds
-[22:00:06] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[22:00:06] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:00:06] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:25] [Server thread/INFO]: Viti[/25.99.114.30:50820] logged in with entity id 350 at (14.27298445520178, 68.0, 265.8683551572275)
+[04:10:25] [Server thread/INFO]: Viti joined the game
+[04:10:32] [Server thread/INFO]: Viti lost connection: Disconnected
+[04:10:32] [Server thread/INFO]: Viti left the game
+[09:05:34] [Server thread/INFO]: Unknown command
+[09:05:34] [Server thread/INFO]: <--[HERE]
+[09:06:33] [Server thread/INFO]: Unknown command
+[09:06:33] [Server thread/INFO]: motd<--[HERE]
+[09:06:35] [Server thread/INFO]: /advancement (grant|revoke)
+[09:06:35] [Server thread/INFO]: /ban <targets> [<reason>]
+[09:06:35] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[09:06:35] [Server thread/INFO]: /banlist [ips|players]
+[09:06:35] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[09:06:35] [Server thread/INFO]: /clear [<targets>]
+[09:06:35] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[09:06:35] [Server thread/INFO]: /data (get|merge|modify|remove)
+[09:06:35] [Server thread/INFO]: /datapack (disable|enable|list)
+[09:06:35] [Server thread/INFO]: /debug (report|start|stop)
+[09:06:35] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[09:06:35] [Server thread/INFO]: /deop <targets>
+[09:06:35] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[09:06:35] [Server thread/INFO]: /effect (clear|give)
+[09:06:35] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[09:06:35] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[09:06:35] [Server thread/INFO]: /experience (add|query|set)
+[09:06:35] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[09:06:35] [Server thread/INFO]: /forceload (add|query|remove)
+[09:06:35] [Server thread/INFO]: /function <name>
+[09:06:35] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[09:06:35] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[09:06:35] [Server thread/INFO]: /give <targets> <item> [<count>]
+[09:06:35] [Server thread/INFO]: /help [<command>]
+[09:06:35] [Server thread/INFO]: /kick <targets> [<reason>]
+[09:06:35] [Server thread/INFO]: /kill <targets>
+[09:06:35] [Server thread/INFO]: /list [uuids]
+[09:06:35] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[09:06:35] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[09:06:35] [Server thread/INFO]: /me <action>
+[09:06:35] [Server thread/INFO]: /msg <targets> <message>
+[09:06:35] [Server thread/INFO]: /op <targets>
+[09:06:35] [Server thread/INFO]: /pardon <targets>
+[09:06:35] [Server thread/INFO]: /pardon-ip <target>
+[09:06:35] [Server thread/INFO]: /particle <name> [<pos>]
+[09:06:35] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[09:06:35] [Server thread/INFO]: /recipe (give|take)
+[09:06:35] [Server thread/INFO]: /reload
+[09:06:35] [Server thread/INFO]: /replaceitem (block|entity)
+[09:06:35] [Server thread/INFO]: /save-all [flush]
+[09:06:35] [Server thread/INFO]: /save-off
+[09:06:35] [Server thread/INFO]: /save-on
+[09:06:35] [Server thread/INFO]: /say <message>
+[09:06:35] [Server thread/INFO]: /schedule function <function> <time>
+[09:06:35] [Server thread/INFO]: /scoreboard (objectives|players)
+[09:06:35] [Server thread/INFO]: /seed
+[09:06:35] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[09:06:35] [Server thread/INFO]: /setidletimeout <minutes>
+[09:06:35] [Server thread/INFO]: /setworldspawn [<pos>]
+[09:06:35] [Server thread/INFO]: /spawnpoint [<targets>]
+[09:06:35] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[09:06:35] [Server thread/INFO]: /stop
+[09:06:35] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[09:06:35] [Server thread/INFO]: /summon <entity> [<pos>]
+[09:06:35] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[09:06:35] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[09:06:35] [Server thread/INFO]: /teammsg <message>
+[09:06:35] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[09:06:35] [Server thread/INFO]: /tell -> msg
+[09:06:35] [Server thread/INFO]: /tellraw <targets> <message>
+[09:06:35] [Server thread/INFO]: /time (add|query|set)
+[09:06:35] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[09:06:35] [Server thread/INFO]: /tm -> teammsg
+[09:06:35] [Server thread/INFO]: /tp -> teleport
+[09:06:35] [Server thread/INFO]: /trigger <objective> [add|set]
+[09:06:35] [Server thread/INFO]: /w -> msg
+[09:06:35] [Server thread/INFO]: /weather (clear|rain|thunder)
+[09:06:35] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[09:06:35] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[09:06:35] [Server thread/INFO]: /xp -> experience
+[11:50:56] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[11:50:59] [Server thread/INFO]: Stopping the server
+[11:50:59] [Server thread/INFO]: Stopping server
+[11:50:59] [Server thread/INFO]: Saving players
+[11:50:59] [Server thread/INFO]: Saving worlds
+[11:50:59] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:50:59] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:50:59] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
