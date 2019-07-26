@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2019-07-25 16:44:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2019-07-21 21:17:37 -0300"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 17:08:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-07-21 20:35:36 -0300"
@@ -203,9 +215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-07-25 17:36:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-07-21 11:54:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-07-25 16:45:43 -0300"
     },
     "done": true
   },
@@ -299,6 +323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-07-25 17:23:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-07-25 17:36:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-07-21 21:28:30 -0300"
@@ -362,6 +398,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-07-21 20:15:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 12:17:28 -0300"
     },
     "done": true
   },
@@ -480,6 +522,7 @@
       "minecraft:spider": "2019-07-21 11:03:48 -0300",
       "minecraft:creeper": "2019-07-21 11:08:58 -0300",
       "minecraft:phantom": "2019-07-22 22:34:58 -0300",
+      "minecraft:husk": "2019-07-25 16:27:34 -0300",
       "minecraft:enderman": "2019-07-21 11:49:53 -0300",
       "minecraft:zombie": "2019-07-21 11:09:16 -0300",
       "minecraft:drowned": "2019-07-21 11:50:09 -0300"
@@ -544,6 +587,18 @@
     "criteria": {
       "has_iron_pickaxe": "2019-07-21 20:15:38 -0300",
       "has_iron_chestplate": "2019-07-21 20:15:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2019-07-25 16:44:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-07-25 17:40:30 -0300"
     },
     "done": true
   },
@@ -622,6 +677,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-07-21 11:22:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-07-25 16:45:43 -0300"
     },
     "done": true
   },
@@ -709,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-07-25 17:26:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2019-07-25 09:26:17 -0300"
@@ -784,6 +851,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-21 10:57:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-07-25 17:23:54 -0300"
     },
     "done": true
   },
@@ -914,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2019-07-25 17:08:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2019-07-21 11:03:48 -0300"
@@ -960,6 +1039,7 @@
     "criteria": {
       "minecraft:desert_hills": "2019-07-21 10:49:52 -0300",
       "minecraft:desert": "2019-07-21 10:57:06 -0300",
+      "minecraft:beach": "2019-07-25 16:58:15 -0300",
       "minecraft:river": "2019-07-21 10:56:45 -0300",
       "minecraft:savanna": "2019-07-21 10:51:15 -0300"
     },
@@ -1115,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 12:17:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2019-07-21 11:32:34 -0300"
@@ -1211,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-07-25 16:44:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-21 23:11:41 -0300"
@@ -1241,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-07-25 17:23:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-07-22 22:20:41 -0300"
@@ -1262,6 +1360,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2019-07-22 21:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 12:17:28 -0300"
     },
     "done": true
   },
@@ -1325,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 12:17:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-21 10:57:11 -0300"
@@ -1334,6 +1444,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-21 11:51:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-07-25 14:51:33 -0300"
     },
     "done": true
   },
@@ -1364,6 +1480,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-07-21 11:48:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2019-07-25 14:51:33 -0300"
     },
     "done": true
   },
@@ -1419,7 +1541,9 @@
     "criteria": {
       "cooked_porkchop": "2019-07-21 11:22:50 -0300",
       "chicken": "2019-07-21 11:00:10 -0300",
+      "cooked_beef": "2019-07-25 18:26:13 -0300",
       "beef": "2019-07-21 11:19:14 -0300",
+      "potato": "2019-07-25 18:17:35 -0300",
       "cooked_cod": "2019-07-21 22:16:22 -0300",
       "bread": "2019-07-25 10:06:47 -0300",
       "rotten_flesh": "2019-07-21 11:30:06 -0300",
@@ -1439,6 +1563,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-07-21 11:04:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2019-07-25 17:08:06 -0300"
     },
     "done": true
   },
@@ -1748,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-07-25 16:45:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2019-07-21 11:08:03 -0300"
@@ -1808,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-07-25 16:45:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-07-25 05:06:34 -0300"
@@ -1844,9 +1986,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-07-25 17:27:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-07-21 11:36:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-07-25 16:45:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2019-07-25 17:08:06 -0300"
     },
     "done": true
   },
@@ -2234,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-07-25 13:51:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2019-07-21 21:28:30 -0300"
@@ -2368,7 +2534,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/ragdoll.png": "2019-07-21 22:45:45 -0300"
+      "textures/entity/cat/tabby.png": "2019-07-25 17:25:33 -0300",
+      "textures/entity/cat/white.png": "2019-07-25 17:21:27 -0300",
+      "textures/entity/cat/ragdoll.png": "2019-07-21 22:45:45 -0300",
+      "textures/entity/cat/calico.png": "2019-07-25 17:22:45 -0300"
     },
     "done": false
   },
@@ -2381,6 +2550,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-25 06:32:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-07-25 12:17:28 -0300"
     },
     "done": true
   },
@@ -2435,6 +2610,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-22 22:47:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-07-25 14:51:33 -0300"
     },
     "done": true
   },

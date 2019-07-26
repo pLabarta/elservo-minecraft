@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 16:02:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-07-23 20:52:16 -0300"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 16:02:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-23 20:16:49 -0300"
@@ -377,9 +389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-07-25 16:20:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-07-24 00:11:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-07-25 16:10:23 -0300"
     },
     "done": true
   },
@@ -722,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-07-25 17:20:15 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2019-07-24 17:11:16 -0300",
@@ -768,6 +798,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-07-23 21:43:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 16:02:51 -0300"
     },
     "done": true
   },
@@ -909,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-07-25 16:12:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-07-23 20:16:49 -0300"
@@ -954,6 +996,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-07-23 20:16:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-07-25 16:10:23 -0300"
     },
     "done": true
   },
@@ -1034,6 +1082,8 @@
       "minecraft:skeleton": "2019-07-23 23:33:12 -0300",
       "minecraft:ghast": "2019-07-24 00:08:52 -0300",
       "minecraft:spider": "2019-07-23 20:16:39 -0300",
+      "minecraft:creeper": "2019-07-25 18:52:43 -0300",
+      "minecraft:phantom": "2019-07-25 18:45:01 -0300",
       "minecraft:husk": "2019-07-23 20:18:32 -0300",
       "minecraft:zombie": "2019-07-23 20:18:05 -0300",
       "minecraft:drowned": "2019-07-23 21:47:46 -0300"
@@ -1218,6 +1268,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-07-23 20:19:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-07-25 17:20:15 -0300"
     },
     "done": true
   },
@@ -1749,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-07-25 16:12:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2019-07-23 23:38:15 -0300"
@@ -1872,10 +1934,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2019-07-25 18:51:09 -0300",
       "minecraft:desert_hills": "2019-07-23 20:15:53 -0300",
       "minecraft:desert": "2019-07-23 20:17:35 -0300",
       "minecraft:river": "2019-07-23 20:51:37 -0300",
-      "minecraft:savanna": "2019-07-23 20:19:42 -0300"
+      "minecraft:savanna": "2019-07-23 20:19:42 -0300",
+      "minecraft:plains": "2019-07-25 18:50:40 -0300"
     },
     "done": false
   },
@@ -2077,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-25 16:02:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-07-24 00:31:53 -0300"
@@ -2098,6 +2168,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2019-07-23 22:19:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-07-25 16:02:51 -0300"
     },
     "done": true
   },

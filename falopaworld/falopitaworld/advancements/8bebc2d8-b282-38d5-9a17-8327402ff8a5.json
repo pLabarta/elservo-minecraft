@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-07-25 14:49:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-07-23 21:44:10 -0300"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2019-07-25 20:13:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-23 20:39:29 -0300"
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-07-23 21:04:29 -0300"
@@ -413,6 +431,7 @@
       "cooked_mutton": "2019-07-23 21:47:28 -0300",
       "cooked_beef": "2019-07-24 22:59:08 -0300",
       "baked_potato": "2019-07-24 16:31:52 -0300",
+      "cooked_cod": "2019-07-25 14:42:07 -0300",
       "bread": "2019-07-23 20:29:39 -0300",
       "melon_slice": "2019-07-23 23:43:33 -0300",
       "cooked_chicken": "2019-07-24 17:24:47 -0300",
@@ -492,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2019-07-23 21:32:33 -0300"
@@ -525,6 +550,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2019-07-23 23:36:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
     },
     "done": true
   },
@@ -576,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-07-23 22:22:09 -0300"
@@ -591,6 +628,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2019-07-24 16:34:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-07-25 14:49:23 -0300"
     },
     "done": true
   },
@@ -985,7 +1028,9 @@
       "minecraft:spider": "2019-07-24 16:39:20 -0300",
       "minecraft:creeper": "2019-07-23 22:14:48 -0300",
       "minecraft:husk": "2019-07-24 19:23:00 -0300",
+      "minecraft:enderman": "2019-07-25 14:02:18 -0300",
       "minecraft:zombie": "2019-07-23 22:13:15 -0300",
+      "minecraft:drowned": "2019-07-25 14:28:24 -0300",
       "minecraft:zombie_villager": "2019-07-24 22:41:39 -0300"
     },
     "done": false
@@ -993,6 +1038,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-07-24 17:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-07-25 20:13:49 -0300"
     },
     "done": true
   },
@@ -1206,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-07-25 14:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-07-23 20:26:06 -0300"
@@ -1227,6 +1284,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-07-23 20:36:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
     },
     "done": true
   },
@@ -1305,6 +1368,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2019-07-23 23:43:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-07-25 17:59:50 -0300"
     },
     "done": true
   },
@@ -1458,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-23 20:39:29 -0300"
@@ -1485,6 +1560,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-07-23 20:36:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-07-25 14:49:23 -0300"
     },
     "done": true
   },
@@ -1756,6 +1837,7 @@
     "criteria": {
       "minecraft:desert_hills": "2019-07-23 17:37:21 -0300",
       "minecraft:desert": "2019-07-24 19:07:01 -0300",
+      "minecraft:beach": "2019-07-25 14:34:12 -0300",
       "minecraft:river": "2019-07-23 20:28:24 -0300",
       "minecraft:savanna": "2019-07-23 17:38:02 -0300"
     },
@@ -1878,6 +1960,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-23 21:49:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-07-25 12:34:04 -0300"
     },
     "done": true
   },
@@ -2088,6 +2176,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-07-23 20:26:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-07-25 12:35:50 -0300"
     },
     "done": true
   },
