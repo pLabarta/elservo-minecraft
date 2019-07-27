@@ -1027,6 +1027,7 @@
       "minecraft:skeleton": "2019-07-23 21:55:19 -0300",
       "minecraft:spider": "2019-07-24 16:39:20 -0300",
       "minecraft:creeper": "2019-07-23 22:14:48 -0300",
+      "minecraft:phantom": "2019-07-26 22:30:56 -0300",
       "minecraft:husk": "2019-07-24 19:23:00 -0300",
       "minecraft:enderman": "2019-07-25 14:02:18 -0300",
       "minecraft:zombie": "2019-07-23 22:13:15 -0300",
@@ -1981,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-07-26 19:22:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-07-23 20:15:04 -0300"
@@ -2098,6 +2105,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-07-24 22:54:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-07-26 19:22:50 -0300"
     },
     "done": true
   },
