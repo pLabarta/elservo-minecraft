@@ -1,17 +1,19 @@
-[04:17:50] [Server thread/INFO]: Viti[/25.99.114.30:52071] logged in with entity id 70784 at (38.69999998807906, 28.0, 261.4708014765472)
-[04:17:50] [Server thread/INFO]: Viti joined the game
-[04:17:56] [Server thread/INFO]: Viti lost connection: Disconnected
-[04:17:56] [Server thread/INFO]: Viti left the game
-[04:33:56] [Server thread/INFO]: Stopping the server
-[04:33:56] [Server thread/INFO]: Stopping server
-[04:33:56] [Server thread/INFO]: Saving players
-[04:33:56] [Server thread/INFO]: Saving worlds
-[04:33:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[04:33:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:33:56] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:33:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:08:04] [Server thread/INFO]: Unknown command
+[19:08:04] [Server thread/INFO]: <--[HERE]
+[19:08:04] [Server thread/INFO]: Unknown command
+[19:08:04] [Server thread/INFO]: <--[HERE]
+[19:08:04] [Server thread/INFO]: Unknown command
+[19:08:04] [Server thread/INFO]: <--[HERE]
+[19:08:10] [Server thread/INFO]: Stopping the server
+[19:08:10] [Server thread/INFO]: Stopping server
+[19:08:10] [Server thread/INFO]: Saving players
+[19:08:10] [Server thread/INFO]: Saving worlds
+[19:08:10] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[19:08:11] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:08:11] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

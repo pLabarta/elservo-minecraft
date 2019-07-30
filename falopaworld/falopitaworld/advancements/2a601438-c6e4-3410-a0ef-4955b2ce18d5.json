@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-27 18:52:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-07-21 20:43:02 -0300"
@@ -218,6 +224,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-07-21 22:18:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-27 18:52:59 -0300"
     },
     "done": true
   },
@@ -399,6 +411,7 @@
     "criteria": {
       "baked_potato": "2019-07-22 22:20:30 -0300",
       "beetroot_soup": "2019-07-23 21:45:11 -0300",
+      "potato": "2019-07-27 18:49:58 -0300",
       "bread": "2019-07-22 14:48:58 -0300",
       "rotten_flesh": "2019-07-21 20:30:19 -0300",
       "beetroot": "2019-07-22 22:20:11 -0300",
@@ -721,6 +734,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-07-21 21:13:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-27 18:52:59 -0300"
     },
     "done": true
   },
@@ -1364,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2019-07-27 18:56:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-21 20:31:19 -0300"
@@ -1865,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-07-27 18:52:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-07-21 22:18:13 -0300"
@@ -1886,6 +1917,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2019-07-23 19:35:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-07-27 18:52:59 -0300"
     },
     "done": true
   },
