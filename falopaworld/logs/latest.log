@@ -1,19 +1,13 @@
-[19:08:04] [Server thread/INFO]: Unknown command
-[19:08:04] [Server thread/INFO]: <--[HERE]
-[19:08:04] [Server thread/INFO]: Unknown command
-[19:08:04] [Server thread/INFO]: <--[HERE]
-[19:08:04] [Server thread/INFO]: Unknown command
-[19:08:04] [Server thread/INFO]: <--[HERE]
-[19:08:10] [Server thread/INFO]: Stopping the server
-[19:08:10] [Server thread/INFO]: Stopping server
-[19:08:10] [Server thread/INFO]: Saving players
-[19:08:10] [Server thread/INFO]: Saving worlds
-[19:08:10] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[19:08:11] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:08:11] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:08:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:12:34] [Server thread/INFO]: Stopping the server
+[08:12:34] [Server thread/INFO]: Stopping server
+[08:12:34] [Server thread/INFO]: Saving players
+[08:12:34] [Server thread/INFO]: Saving worlds
+[08:12:34] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:overworld
+[08:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[08:12:34] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_end
+[08:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:12:34] [Server thread/INFO]: Saving chunks for level 'falopitaworld'/minecraft:the_nether
+[08:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (falopitaworld): All chunks are saved
+[08:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
